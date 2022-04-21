@@ -12,3 +12,8 @@ body {
   background-color: #bada55;
   color: black;
 }
+
+p {
+  font-style: italic;
+  color: navy;
+}
